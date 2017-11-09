@@ -6,3 +6,4 @@
 
 * https://github.com/seekerliu/laravel-tips
 
+[SocialiteProviders（https://github.com/SocialiteProviders）](https://github.com/SocialiteProviders)
