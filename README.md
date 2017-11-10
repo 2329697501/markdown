@@ -5,5 +5,5 @@
 * [SocialiteProviders（https://github.com/SocialiteProviders）](https://github.com/SocialiteProviders)
 * [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 
-# weixin
-[GetWeixinCode](https://github.com/HADB/GetWeixinCode)
+> weixin
+* [GetWeixinCode](https://github.com/HADB/GetWeixinCode)
