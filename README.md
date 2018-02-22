@@ -9,5 +9,5 @@
 * [GetWeixinCode](https://github.com/HADB/GetWeixinCode)
 
 >CSS
-[更方便更快速更易用的css animate](https://gitee.com/xulongchang/animate.css)
+* [更方便更快速更易用的css animate](https://gitee.com/xulongchang/animate.css)
 
