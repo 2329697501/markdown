@@ -11,3 +11,6 @@
 >CSS
 * [更方便更快速更易用的css animate](https://gitee.com/xulongchang/animate.css)
 
+>javascript插件
+* [jqPaginator简洁、高度自定义的jQuery分页组件，适用于多种应用场景。](https://github.com/keenwon/jqPaginator)
+
